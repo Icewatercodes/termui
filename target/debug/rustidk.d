@@ -1,1 +1,1 @@
-/home/willi/Projects/termui/target/debug/rustidk: /home/willi/Projects/termui/src/main.rs
+/home/kskroyal/Projects/termui/target/debug/rustidk: /home/kskroyal/Projects/termui/src/main.rs
